@@ -7,4 +7,4 @@
 ## 第五章 [有害生物综合治理](第五章_有害生物综合治理.md)
 ## 第六章 [农作物害虫](第六章_农作物害虫.md)
 
-- [中国农药信息网](www.chinapesticide.gov.cn)
+- [中国农药信息网](http://www.chinapesticide.gov.cn)
