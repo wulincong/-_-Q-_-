@@ -30,14 +30,14 @@
     
 #### 有序列表 
 
-     小短线 或者叫减号 加空格 加内容 例如 
-     ‘- 历史长
-     - 种类多’
-### 如何参与编写这个项目 
+     小短线 或者叫减号 加空格 加内容 例如   
+     ‘- 历史长  
+     - 种类多’  
+### 如何参与编写这个项目  
 ##### step1  
-![第一步](picture/step1.png)
+![第一步](picture/step1.png)  
 ##### step2  
-![第二步](picture/step2.png)
-##### step3
-![第三步](picture/step3.png)
+![第二步](picture/step2.png)  
+##### step3  
+![第三步](picture/step3.png)  
 然后等我通过，就可以在[主页](https://wulincong.github.io/-_-Q-_-/)看到了
