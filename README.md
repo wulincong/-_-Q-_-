@@ -1,5 +1,5 @@
 # -_-  
-[blog](https://wulincong.github.io/-_-Q-_-/)
+[blog pages](https://wulincong.github.io/-_-Q-_-/)
 # 农业昆虫学—曲爱军
 ## 第一章 [绪论](第一章_绪论.md)
 ## 第二章 [昆虫生物学](第二章_昆虫生物学.md)
