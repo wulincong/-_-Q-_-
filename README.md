@@ -19,10 +19,10 @@
      ‘- 历史长  
      - 种类多’  
 ### 如何参与编写这个项目  
-##### step1  
+#### step1  
 ![第一步](picture/step1.png)  
-##### step2  
+#### step2  
 ![第二步](picture/step2.png)  
-##### step3  
+#### step3  
 ![第三步](picture/step3.png)  
 然后等我通过，就可以在[主页](https://wulincong.github.io/-_-Q-_-/)看到了  
