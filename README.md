@@ -2,14 +2,6 @@
 [blog pages](https://wulincong.github.io/-_-Q-_-/)
 # [农业昆虫学—曲爱军](昆虫学/readme.md)
 
-#### 网站
-- [中国农药信息网](http://www.chinapesticide.gov.cn)
-- [中国植保在线](http://cnppo.com)
-#### 微信
-- 人呆手户  
-#### 期刊  
-- 昆虫学报  
-- 植物保护学报 CNS  
 
 # [遗传学](遗传学/readme.md)
 
